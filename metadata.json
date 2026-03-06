@@ -1,0 +1,7 @@
+{
+  "name": "FastPrint Online",
+  "description": "ระบบสั่งปริ้นงานออนไลน์ที่รวดเร็วและสะดวก พร้อมระบบ Light/Dark Mode, การจัดการผ่าน Google Sheets/Drive และระบบบัญชีร้านค้า",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
